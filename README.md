@@ -1,4 +1,4 @@
-# Анализ вакансий кадрового агенства
+# Анализ вакансий кадрового агентства
 [Просмотр в nbviewer](https://nbviewer.org/github/franktoblack/hr_agency_analysis/blob/main/hr_agency_project.ipynb)
 
 ## Описание проекта
